@@ -53,6 +53,11 @@ CLOUDINARY_CLOUD_NAME = dfiizqv1d
 CLOUDINARY_API_KEY = 721547742153626
 CLOUDINARY_API_SECRET = 5nlTv6f_840OczrcxQ0ORf2ofIk
 
+
+
+# To save
+npm i --save-dev nodemon
+
 # Start server
 npm run start
 # Runs on http://localhost:5000
