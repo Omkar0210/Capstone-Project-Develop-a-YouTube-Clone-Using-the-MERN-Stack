@@ -31,6 +31,9 @@ https://drive.google.com/file/d/1b8CfGZPSlkth1afpZ78JfnxzZumZrA7c/view?usp=drive
 ---
 
 ## 🚀 Getting Started
+cd Capstone-Project-Develop-a-YouTube-Clone-Using-the-MERN-Stack
+cd new Final
+cd youtube-clone-test
 
 ### 🖥️ Backend Setup
 
